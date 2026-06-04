@@ -1,152 +1,67 @@
-# Hi, I'm Xuanhao Wang 👋
+# 王烜浩
 
-🎓 Software Engineering undergraduate at **China University of Petroleum (East China)**  
-🔬 Interested in **Cloud Computing Security, AI Vision, Intelligent Transportation, and Data Visualization**  
-🏆 National Scholarship recipient | National-level competition awards  
+本科生，软件工程专业  
+中国石油大学（华东）青岛软件学院、计算机科学与技术学院
+
 📫 Email: 2307020228@s.upc.edu.cn
 
 ---
 
-## 👨‍💻 About Me
+## 教育背景
 
-I am currently majoring in **Software Engineering** at the School of Software, China University of Petroleum (East China).
-
-My current interests include:
-
-- Cloud computing security and virtual machine scheduling
-- AI-based traffic perception and intelligent transportation systems
-- Computer vision, object detection, and multimodal sensing
-- 3D data visualization with WebGL and Three.js
-- Algorithm design, optimization, and simulation
+**中国石油大学（华东）**  
+青岛软件学院、计算机科学与技术学院  
+软件工程专业
 
 ---
 
-## 🎓 Education
+## 科研经历
 
-**China University of Petroleum (East China)**  
-School of Software, School of Computer Science and Technology  
-**B.Eng. in Software Engineering**  
-2023.09 - 2027.06
+### 基于共居威胁检测的虚拟机自适应分配与安全评估研究
 
-- GPA: **4.21 / 5**
-- Rank: **5 / 217**, top **2.3%**
-- CET-6: **515**
-- Selected coursework:
-  - Algorithm Analysis and Design: **100**
-  - Data Structures: **99**
-  - Data Analysis with Python: **99**
-  - Discrete Mathematics: **98**
-  - Probability and Mathematical Statistics: **97**
-  - Computer Organization: **96**
+山东省自然科学基金面上专项  
+项目编号：ZR2024QF156
+
+聚焦云计算环境中的共居威胁检测与主动防御，围绕虚拟机的自适应分配与安全评估开展研究。项目涵盖模型预测控制、机器学习、遗传算法等技术路径，构建具备威胁感知能力的动态调度机制，支持多种虚拟化攻击场景下的防御需求。
 
 ---
 
-## 🔬 Research Experience
-
-### Adaptive Virtual Machine Allocation and Security Evaluation Based on Co-residence Threat Detection
-
-Supported by **Shandong Provincial Natural Science Foundation**  
-Project No. **ZR2024QF156**  
-2025.01 - 2027.12
-
-This research focuses on co-residence threat detection and active defense in cloud computing environments. The project explores adaptive virtual machine allocation, security evaluation, model predictive control, machine learning, and evolutionary optimization methods.
-
----
-
-### BIDSC: A Bio-inspired Dynamic-Static Coordinated Defense Framework for Cloud
-
-2025.11 - Present
-
-- Proposed and implemented the multi-objective optimization algorithm **MOPSOGA**
-- Developed simulation code for **MOPSOGA** and baseline algorithm **WOGA**
-- Participated in the design of a cloud defense framework integrating virtual machine migration, honeypot guidance, and backup mechanisms
-
-Paper in progress:
-
-> Xin Yang, Xitong Zhou, Xuanhao Wang, Feiyang Wang.  
-> **BIDSC: A Bio-inspired Dynamic-Static Coordinated Defense Framework for Cloud.**
-
----
-
-## 🚀 Projects
+## 项目经历
 
 ### 穿云破雾：双光 + AI 驱动的天地协同道路交通感知系统
 
-National College Student Digital Media Technology Works and Creativity Competition  
-**National First Prize**
+全国大学生数字媒体科技作品及创意竞赛  
+国家级一等奖
 
-Built an intelligent traffic monitoring system integrating infrared and visible-light perception. The system supports image enhancement, object detection, multimodal fusion, and all-weather road traffic analysis.
+构建了一套融合红外与可见光感知的智能交通监测系统，通过图像增强、目标检测与多模态融合算法，实现车辆与道路情况的全天候识别与分析，从而提升雨雾、夜间等复杂场景下的监管能力与安全水平。
 
-My contributions:
-
-- Designed and implemented the AI module
-- Built intelligent recognition models for traffic violations
-- Supported detection of red-light running, wrong-way driving, and illegal lane changing
-- Constructed a traffic regulation knowledge base
-- Designed an intelligent Q&A module for violation types, penalties, and legal references
+系统支持交通违章行为智能识别，可对闯红灯、逆行、违规变道等行为进行自动检测。同时，基于交通法规构建知识库，支持对违章类型、处罚标准及法规依据的自动化问答。
 
 ---
 
 ### 基于 PaddleDetection 与 MGT 的智能交通枢纽监管平台
 
-2025 China Collegiate Computing Contest  
-**National Second Prize**
+2025 年（第 18 届）中国大学生计算机设计大赛  
+国家级二等奖
 
-Built an intelligent traffic hub supervision platform integrating AI visual recognition, traffic prediction algorithms, and cloud-edge-device collaboration.
+构建了一个面向交通枢纽的智能交通监管平台，融合 AI 视觉识别、交通预测算法与云边端协同架构，实现车辆检测、行为识别及数据可视化展示，并支持危险车辆预警与轨迹管理，在降低人力成本的同时提升整体管理效率与安全性。
 
-My contributions:
-
-- Designed the data visualization dashboard
-- Implemented 3D traffic data visualization using **WebGL** and **Three.js**
-- Participated in the development of an intelligent inspection vehicle based on **Jetson Nano**
-- Integrated LiDAR and depth camera modules for environmental perception and autonomous obstacle avoidance
+平台包含三维交通数据可视化与智能巡检硬件系统，基于 WebGL 与 Three.js 实现交通数据可视化展示，并结合 Jetson Nano、激光雷达与深度相机实现环境感知与自主避障。
 
 ---
 
-## 🏆 Honors & Awards
+## 荣誉奖项
 
-- **National First Prize**, National College Student Digital Media Technology Works and Creativity Competition
-- **National Second Prize**, 2025 China Collegiate Computing Contest
-- **National Third Prize**, 2025 RAICOM Robot Developer Competition National Final
-- **National Third Prize**, 19th National College Student Software Innovation Competition
-- **National Scholarship**
-- **Provincial Third Prize**, 2024 National College Student Mathematical Modeling Competition
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### AI & Data
-
-![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0062B1?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
-
-### Visualization & Systems
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat-square)
+- 国家奖学金
+- 全国大学生数字媒体科技作品及创意竞赛 国家级一等奖
+- 2025 年（第 18 届）中国大学生计算机设计大赛 国家级二等奖
+- 2025 年睿抗机器人开发者大赛（RAICOM）全国总决赛 国家级三等奖
+- 第十九届全国大学生软件创新大赛 国家级三等奖
+- 全国大学生 2024 数学建模竞赛 省级三等奖
 
 ---
 
-## 📊 GitHub Stats
-
-![Anoxiafox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoxiafox&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoxiafox&layout=compact&theme=default)
-
----
-
-## 📫 Contact
+## 联系方式
 
 - Email: 2307020228@s.upc.edu.cn
 - GitHub: [@anoxiafox](https://github.com/anoxiafox)
