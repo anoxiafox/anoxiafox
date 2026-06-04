@@ -109,18 +109,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anoxiafox&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=anoxiafox&theme=catppuccin-latte&hide_border=true&background=FFFFFF00&ring=A2D2FF&fire=FFC8DD&currStreakLabel=6B7280&sideLabels=6B7280&dates=94A3B8" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoxiafox&bg_color=ffffff00&color=64748B&line=A2D2FF&point=FFC8DD&area=true&area_color=BDE0FE&hide_border=true" />
 
 </div>
----
 
 ## 🏆 荣誉奖项
 
